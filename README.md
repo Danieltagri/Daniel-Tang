@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danieltagri
+- 👋 Hi, I’m @Daniel-tang
 - 👀 I’m interested in coding with python,c# and C++
 - 🌱 I’m currently trying to use python code to contorl Vibrating feed
 - 💞️ I’m looking to collaborate on ...
