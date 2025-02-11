@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danieltagri
-- 👀 I’m interested in coding with python and C++
+- 👀 I’m interested in coding with python,c# and C++
 - 🌱 I’m currently trying to use python code to contorl Vibrating feed
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
